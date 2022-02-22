@@ -65,8 +65,6 @@ Apabila pengguna merasa khawatir apakah komputer terjangkit virus atau software 
 
 Tidak seperti perintah SFC yang hanya memeriksa integritas dari file sistem inti, perintah CHKDSK dapat digunakan untuk memeriksa seluruh file penyimpanan
 
-The command to check the C: drive and repair any problems, launch the command window as an administrator and type CHKDSK /f C:.
-
 Perintah untuk memeriksa drive C dan memperbaiki masalah yang ada. Command line dapat dieksekusi dengan CHKDSK /f C
 
 Pemeriksaan yang dilakukan mencakup:
