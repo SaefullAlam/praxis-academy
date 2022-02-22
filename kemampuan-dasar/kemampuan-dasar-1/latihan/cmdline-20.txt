@@ -2,9 +2,9 @@
 
 Pengguna dapat melihat semua file asosiasi di dalam komputer, contoh cara kerja assoc yaitu ketika membuka file dengan ekstensi .pdf maka otomatis membuka adobe
 
-2. fc (file compare)
+2. NSLOOKUP
 
-Digunakan untuk membandingkan file ascii atau binary dan akan menampilkan list semua perbedaan yang ditemukan
+Perintah ini dapat digunakan untuk melihat rekaman DNS hingga memperbaiki DNS
 
 3. IPCONFIG (IP Configuration)
 
