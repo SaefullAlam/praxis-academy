@@ -1,0 +1,123 @@
+1. Assoc
+
+Pengguna dapat melihat semua file asosiasi di dalam komputer, contoh cara kerja assoc yaitu ketika membuka file dengan ekstensi .pdf maka otomatis membuka adobe
+
+2. fc (file compare)
+
+Digunakan untuk membandingkan file ascii atau binary dan akan menampilkan list semua perbedaan yang ditemukan
+
+3. IPCONFIG (IP Configuration)
+
+Using this command in the CMD command prompt returns detailed information about your current network adapter connection including:
+
+Current IP Address
+Subnet Mask
+Default Gateway IP
+Current domain
+This information can help you troubleshoot router issues and other connection issues you could be having with your network adapter.
+
+Command line ini akan memberikan informasi detail mengenai koneksi adapter network saat ini, seperti :
+
+• IP Address
+• Subnet Mask
+• Default Gateway IP
+• Domain saat ini
+• dan lain lain
+
+Informasi yang disajikan dapat membantu pengguna untuk memperbaiki masalah yang terjadi terkait router dan koneksi
+
+
+4. NETSTAT (Network Statistics)
+
+Command line ini akan memberikan list semua koneksi TCP yang aktif di dalam komputer, hal ini berguna dalam mendeteksi malware yang aktif di dalam komputer dan mengaktifkan koneksi internet tanpa sepengetahuan pengguna
+
+5. PING (Send Test Packets)
+
+Pengguna dapat menggunakan command line ping untuk menguji apakah komputer pengguna dapat mengakses komputer lain, server, atau bahkan sebuah website. Perintah ini juga dapat membantu untuk menjelaskan mengapa sebuah jaringan lambat atau terputus. Selain itu, juga dapat menyediakan waktu transit untuk sebuah paket dalam milisekon.
+
+6. TRACERT (Trace Route)
+
+The command stands for “Trace Route”, which sends packets out to a remote destination (server or website), and provides you with all of the following information:
+
+Number of hops (intermediate servers) before getting to the destination
+Time it takes to get to each hop
+The IP and sometimes the name of each hop
+TRACERT can reveal how the routes of your internet requests change depending where you’re accessing the web. It also helps with troubleshooting a router or switch on a local network that may be problematic.
+
+Perintah tracert berfungsi untuk mengirimkan paket keluar menuju tujuan baik server maupun websitw dan memberikan semua informasi seperti :
+• Jumlah hop (intermediate server) sebelum menuju ke destinasi
+• waktu yang dipeelukan untuk memperoleh tiap hop
+• IP dan terkadang nama dari setiap hop
+
+Tracert dapat menjelaskan bagaimana sebuah rute dari permintaan internet berubah berdasarkan dimana pengguna mengakses sebuah web
+
+7. POWERCFG (Power Configuration)
+
+Powercfg digunakan untuk mengetahui konfigurasi pengaturan daya. Selain itu perintah ini juga dapat digunakan untuk menunjukkan apakah ada peringatan error yang berkaitan dengan daya
+
+8. Shutdown
+
+The SHUTDOWN command is a pretty versatile command that lets you shutdown the computer but control the behavior of that shutdown. It’s commonly used as a scheduled task or part of an IT batch job after patches have been applied to a computer system.
+
+Perintah shutdown tidak hanya digunakan untuk mematikan komputer namun juga mengontrol perilaku kematian tersebut. Hal tersebut digunakan untuk melakukan tugas terjadwal setelah melakukan patch kepada komputer
+
+9. SYSTEMINFO (System Information)
+
+Perintah ini akan memberikan informasi kepada pengguna mengenai informasi tentang sistem yang digunakan seperti network card, detail prosessor, atau versi os windows yang digunakan. Informasi disajikan dalam format yang jelas dan mudah dibaca
+
+10. SFC (System File Checker)
+
+Apabila pengguna merasa khawatir apakah komputer terjangkit virus atau software yang korup pada file sistem, perintah SFC dapat digunakan untuk mendeteksi hal tersebut. Salah satu perintah sfc yang dapat digunakan yaitu SFC /SCANNOW
+
+11. CHKDSK (Check Disk)
+
+Tidak seperti perintah SFC yang hanya memeriksa integritas dari file sistem inti, perintah CHKDSK dapat digunakan untuk memeriksa seluruh file penyimpanan
+
+The command to check the C: drive and repair any problems, launch the command window as an administrator and type CHKDSK /f C:.
+
+Perintah untuk memeriksa drive C dan memperbaiki masalah yang ada. Command line dapat dieksekusi dengan CHKDSK /f C
+
+Pemeriksaan yang dilakukan mencakup:
+- Disk Error
+- Bad Sector
+- File fragmentation
+
+12. ATTRIB (Attribut)
+
+Pengguna dapat mengganti atribut dari sebuah file menggunakan perintah attrib. Contohnya yaitu
+
+ATTRIB +R +H C:\temp\File1.bat
+
+Yang berarti mengatur attribut File1.bat sebagai hidden dan read-only
+
+13. COLOR
+
+Perintah color digunakan untuk mengganti warna background dari command prompt
+
+14. Title
+
+Mengganti judul pada command prompt
+
+15. TASKLIST
+
+Perintah tasklist digunakan untuk melihat semua pekerjaan yang sedang berjalan pada komputer
+
+16. Dir (Directory)
+
+Menampilkan list konten yang terdapat dalam direktori
+
+17. Date
+
+Menunjukkan tanggal saat ini
+
+18. Ver (Version)
+
+Menunjukkan versi sistem operasi yang digunakan
+
+19. Cd (Change Directory)
+
+Mengubah direktori sekarang ke direktori tujuan
+
+20. Cls (Clear screen)
+
+Membersihkan seluruh tulisan pada layar
