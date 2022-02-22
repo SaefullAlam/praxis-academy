@@ -1,5 +1,6 @@
 ## Windows Command Line Shell
-
+'''
     Windows memiliki 2 command-line shells yaitu Command shell dan PowerShell. Setiap shell adalah program software yang memberikan akses komunikasi langsung antara pengguna dan sistem operasi atau aplikasi, menyediakan sebuah environment untuk otomatisasi operasi IT.
     Command shell adalah shell pertama yang dibangun dalam Windows untuk otomatisasi pekerjaan rutin seperti manajemen akun pengguna atau pencadangan tiap malam, menggunakan batch (.bat) files. Dengan Windows Script Host, pengguna dapat menjalankan scripts yang lebih canggih dalam Command shell. Pengguna dapat beroperasi lebih efisien menggunakan scripts daripada menggunakan user interface. Script menerima semua perintah yang tersedia pada command line.
     PowerShell telah didesain untuk mengembangkan kemampuan dari Command shell untuk menjalankan perintah PowerSHell yang disebut cmdlets. Cmdlets mirip seperti Windows Commands namun memberikan perluasan bahasa skrip. Pengguna dapat menjalankan baik Windows Commands maupun PowerShell cmdlets di dalam PowerShell, namun Command shell hanya dapat menjalankan Windows Commands, tidak dapat menjalankan PowerShell cmdlets.
+'''
