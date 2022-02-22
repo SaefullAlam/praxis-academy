@@ -8,14 +8,6 @@ Perintah ini dapat digunakan untuk melihat rekaman DNS hingga memperbaiki DNS
 
 3. IPCONFIG (IP Configuration)
 
-Using this command in the CMD command prompt returns detailed information about your current network adapter connection including:
-
-Current IP Address
-Subnet Mask
-Default Gateway IP
-Current domain
-This information can help you troubleshoot router issues and other connection issues you could be having with your network adapter.
-
 Command line ini akan memberikan informasi detail mengenai koneksi adapter network saat ini, seperti :
 
 • IP Address
