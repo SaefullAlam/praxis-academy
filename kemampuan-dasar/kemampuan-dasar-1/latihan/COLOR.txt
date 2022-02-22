@@ -1,0 +1,5 @@
+Perintah:
+Color 9
+
+Hasil:
+Tulisan pada command prompt menjadi Light Blue

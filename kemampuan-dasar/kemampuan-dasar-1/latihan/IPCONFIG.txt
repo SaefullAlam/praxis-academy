@@ -1,0 +1,51 @@
+Perintah :
+IPCONFIG
+
+Hasil:
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::b041:4fea:631b:2eac%19
+   Autoconfiguration IPv4 Address. . : 169.254.46.172
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . :
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::b917:33c7:b547:7cc1%5
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi 2:
+
+   Connection-specific DNS Suffix  . :
+   Link-local IPv6 Address . . . . . : fe80::fc0c:dab8:ad79:ef01%12
+   IPv4 Address. . . . . . . . . . . : 10.29.120.233
+   Subnet Mask . . . . . . . . . . . : 255.255.248.0
+   Default Gateway . . . . . . . . . : 10.29.127.254
+
+Ethernet adapter Bluetooth Network Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :

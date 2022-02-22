@@ -1,0 +1,9 @@
+Perintah :
+NSLOOKUP
+
+Hasil:
+
+DNS request timed out.
+    timeout was 2 seconds.
+Default Server:  UnKnown
+Address:  10.29.127.254

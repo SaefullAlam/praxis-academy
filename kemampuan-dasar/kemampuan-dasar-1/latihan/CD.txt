@@ -1,0 +1,5 @@
+Perintah:
+cd ..
+
+Hasil:
+Kembali ke direkotri yang lebih umum

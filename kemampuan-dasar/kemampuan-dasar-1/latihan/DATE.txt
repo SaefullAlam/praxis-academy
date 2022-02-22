@@ -1,0 +1,6 @@
+Perintah:
+Date
+
+Hasil:
+The current date is: Wed 02/23/2022
+Enter the new date: (mm-dd-yy)

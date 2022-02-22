@@ -1,0 +1,16 @@
+Perintah:
+NETSTAT
+
+Hasil:
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    10.29.120.233:53569    176:https              ESTABLISHED
+  TCP    10.29.120.233:53928    cdn-185-199-109-133:https  ESTABLISHED
+  TCP    10.29.120.233:53941    whatsapp-cdn-shv-02-sin6:https  ESTABLISHED
+  TCP    10.29.120.233:55540    se-in-f188:5228        ESTABLISHED
+  TCP    10.29.120.233:59847    52.98.149.146:https    ESTABLISHED
+  TCP    10.29.120.233:60608    117.18.232.200:https   CLOSE_WAIT
+  TCP    10.29.120.233:60622    server-54-192-147-99:https  ESTABLISHED
+  TCP    10.29.120.233:60636    20.205.243.168:https   ESTABLISHED
+  TCP    10.29.120.233:60669    lb-140-82-112-26-iad:https  ESTABLISHED

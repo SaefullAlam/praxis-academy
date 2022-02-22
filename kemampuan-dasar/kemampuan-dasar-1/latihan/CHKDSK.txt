@@ -1,0 +1,56 @@
+Perintah :
+CHKDSK
+
+Hasil:
+The type of the file system is NTFS.
+Volume label is Sistem.
+
+WARNING!  /F parameter not specified.
+Running CHKDSK in read-only mode.
+
+Stage 1: Examining basic file system structure ...
+  843264 file records processed.
+File verification completed.
+ Phase duration (File record verification): 13.91 seconds.
+  17128 large file records processed.
+ Phase duration (Orphan file record recovery): 0.00 milliseconds.
+  0 bad file records processed.
+ Phase duration (Bad file record checking): 0.21 milliseconds.
+
+Stage 2: Examining file name linkage ...
+  82738 reparse records processed.
+  1173096 index entries processed.
+Index verification completed.
+ Phase duration (Index verification): 51.43 seconds.
+  0 unindexed files scanned.
+ Phase duration (Orphan reconnection): 5.44 seconds.
+  0 unindexed files recovered to lost and found.
+ Phase duration (Orphan recovery to lost and found): 0.85 milliseconds.
+  82738 reparse records processed.
+ Phase duration (Reparse point and Object ID verification): 166.73 milliseconds.
+
+Stage 3: Examining security descriptors ...
+Security descriptor verification completed.
+ Phase duration (Security descriptor verification): 67.98 milliseconds.
+  164917 data files processed.
+ Phase duration (Data attribute verification): 1.28 milliseconds.
+CHKDSK is verifying Usn Journal...
+  37815408 USN bytes processed.
+Usn Journal verification completed.
+ Phase duration (USN journal verification): 334.94 milliseconds.
+
+Windows has scanned the file system and found no problems.
+No further action is required.
+
+  80634687 KB total disk space.
+  65718448 KB in 510310 files.
+    314820 KB in 164918 indexes.
+         0 KB in bad sectors.
+    958307 KB in use by the system.
+     65536 KB occupied by the log file.
+  13643112 KB available on disk.
+
+      4096 bytes in each allocation unit.
+  20158671 total allocation units on disk.
+   3410778 allocation units available on disk.
+Total duration: 1.18 minutes (71381 ms).

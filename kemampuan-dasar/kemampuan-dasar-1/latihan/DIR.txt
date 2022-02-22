@@ -1,0 +1,24 @@
+Perintah:
+Dir
+
+Hasil:
+Directory: G:\MBKM\praxis-academy\kemampuan-dasar\kemampuan-dasar-1\latihan
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----         2/23/2022  12:28 AM          17495 ASSOC.txt
+-a----         2/23/2022  12:49 AM             91 ATTRIB.txt
+-a----         2/23/2022  12:30 AM           4866 cmdline-20.txt.txt
+-a----         2/23/2022  12:51 AM             76 COLOR.txt
+-a----         2/23/2022  12:31 AM           1551 IPCONFIG.txt
+-a----         2/23/2022  12:32 AM            746 NETSTAT.txt
+-a----         2/23/2022  12:28 AM            135 NSLOOKUP.txt
+-a----         2/23/2022  12:33 AM            521 PING.txt
+-a----         2/23/2022  12:41 AM            296 POWERCFG.txt
+-a----         2/23/2022  12:50 AM            485 SFC.txt
+-a----         2/23/2022  12:44 AM             93 SHUTDOWN.txt
+-a----         2/23/2022  12:45 AM           3950 SYSTEMINFO.txt
+-a----         2/23/2022  12:53 AM          19137 TASKLIST.txt
+-a----         2/23/2022  12:52 AM             86 TITLE.txt
+-a----         2/23/2022  12:37 AM            431 TRACERT.txt

@@ -1,0 +1,5 @@
+Perintah:
+CLS
+
+Hasil:
+Layar konsol bersih

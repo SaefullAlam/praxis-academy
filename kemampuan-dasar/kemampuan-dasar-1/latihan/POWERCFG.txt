@@ -1,0 +1,16 @@
+Perintah:
+powercfg -energy
+
+Hasil:
+Enabling tracing for 60 seconds...
+Observing system behavior...
+Analyzing trace data...
+Analysis complete.
+
+Energy efficiency problems were found.
+
+4 Errors
+0 Warnings
+48 Informational
+
+See C:\WINDOWS\system32\energy-report.html for more details.

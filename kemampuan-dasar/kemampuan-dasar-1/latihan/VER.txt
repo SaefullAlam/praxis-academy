@@ -1,0 +1,5 @@
+Perintah:
+ver
+
+Hasil:
+Microsoft Windows [Version 10.0.19042.1526]

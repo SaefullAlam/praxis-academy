@@ -1,0 +1,11 @@
+Perintah:
+shutdown /s
+
+Hasil:
+Shutdown pc
+
+Perintah:
+shutdown /r
+
+Hasil:
+Restart pc

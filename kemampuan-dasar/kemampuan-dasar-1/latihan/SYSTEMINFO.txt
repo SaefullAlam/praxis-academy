@@ -1,0 +1,78 @@
+Perintah:
+systeminfo
+
+Hasil:
+
+Host Name:                 SAEFULL
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19042 N/A Build 19042
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Legend
+Registered Organization:
+Product ID:                00331-10000-00001-AA549
+Original Install Date:     4/23/2021, 1:34:47 PM
+System Boot Time:          2/12/2022, 8:12:37 PM
+System Manufacturer:       ASUSTeK COMPUTER INC.
+System Model:              GL553VD
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~2808 Mhz
+BIOS Version:              American Megatrends Inc. GL553VD.306, 1/2/2018
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+07:00) Bangkok, Hanoi, Jakarta
+Total Physical Memory:     8,073 MB
+Available Physical Memory: 3,136 MB
+Virtual Memory: Max Size:  13,705 MB
+Virtual Memory: Available: 6,424 MB
+Virtual Memory: In Use:    7,281 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\SAEFULL
+Hotfix(s):                 10 Hotfix(s) Installed.
+                           [01]: KB5010472
+                           [02]: KB4562830
+                           [03]: KB4577586
+                           [04]: KB4580325
+                           [05]: KB4589212
+                           [06]: KB5010342
+                           [07]: KB5006753
+                           [08]: KB5007273
+                           [09]: KB5011352
+                           [10]: KB5005699
+Network Card(s):           5 NIC(s) Installed.
+                           [01]: Realtek PCIe GbE Family Controller
+                                 Connection Name: Ethernet 2
+                                 Status:          Media disconnected
+                           [02]: VirtNet Network Adapter
+                                 Connection Name: Ethernet 3
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: 169.254.46.172
+                                 [02]: fe80::b041:4fea:631b:2eac
+                           [03]: Intel(R) Dual Band Wireless-AC 7265
+                                 Connection Name: Wi-Fi 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.29.127.254
+                                 IP address(es)
+                                 [01]: 10.29.120.233
+                                 [02]: fe80::fc0c:dab8:ad79:ef01
+                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::b917:33c7:b547:7cc1
+                           [05]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection 2
+                                 Status:          Media disconnected
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

@@ -1,0 +1,5 @@
+Perintah:
+attrib +R +H coba.txt
+
+Hasil:
+Apabila tidak ada pesan keluar berarti berhasil

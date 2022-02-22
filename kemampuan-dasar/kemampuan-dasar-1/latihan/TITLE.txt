@@ -1,0 +1,5 @@
+Perintah:
+Title Coba
+
+Hasil:
+Judul konsol berubah dari Command Prompt menjadi Coba

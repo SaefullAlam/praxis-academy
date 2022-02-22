@@ -1,0 +1,14 @@
+Perintah:
+ping www.google.ca
+
+Hasil:
+Pinging www.google.ca [172.217.194.94] with 32 bytes of data:
+Reply from 172.217.194.94: bytes=32 time=28ms TTL=102
+Reply from 172.217.194.94: bytes=32 time=75ms TTL=102
+Reply from 172.217.194.94: bytes=32 time=62ms TTL=102
+Reply from 172.217.194.94: bytes=32 time=28ms TTL=102
+
+Ping statistics for 172.217.194.94:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 75ms, Average = 48ms
