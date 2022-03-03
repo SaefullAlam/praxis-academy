@@ -1,0 +1,9 @@
+# Kompilator vs Interpreter
+## Kompilator
+Kompilator (compiler) merupakan program komputer yang mentransformasi kode yang ditulis dalam bahasa tingkat tinggi ke dalam bahasa mesin dan membentuk file <i>executable</i> (.exe). Dalam arti lain, kompilator merupakan program yang mengonversi kode yang dimengerti manusia (human-readable code) menjadi kode yang dimengerti prosessor komputer (biner 1 dan 0 bits). Komputer memproses kode mesin untuk mengeksekusi perintah yang diberikan. Kompilator hanya dapat mengonversi sebuah kode yang dituliskan dalam sintaks yang sesuai dengan aturan bahasa pemrograman terkait. Kompilator hanyalah sebuah program yang tidak mampu mengatasi kesalahan yang ditemukan dalam program. Sehingga apabila ditemukan kesalahan diperlukan perbaikan kode, jika tidak maka kode tidak akan diterjemahkan. Apabila akan dilakukan pembaruan program, kode pada file <i>executable</i> tidak dapat dimodifikasi sehingga harus mengubah kode sumber dan mengonversi ulang. Interpreter adalah program komputer, sama seperti kompilator yang menerjemahkan setiap perintah bahasa tingkat tinggi menjadi kode mesin. Namun interpreter tidak membuat file <i>executable</i>, program langsung dijalankan. Apabila akan dilakukan pembaruan dapat langsung dilakukan pada kode dan dijalankan kembali. Hal tersebut dapat menjadi kelebihan serta kekurangan dari interpreter itu sendiri karena setiap eksekusi kode harus melewati proses penerjemahan, tidak seperti kompilator yang hanya mengonversi satu kali di awal. Dalam hal penyimpanan, interpreter menggunakan memori ketika proses penerjemahan sedangkan dalam kasus kompilator tidak menggunakan memori karena program dieksekusi secara terpisah. I
+
+
+```python
+for x in range(0,10):
+  print(x)
+```
