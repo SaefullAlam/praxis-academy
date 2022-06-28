@@ -2,7 +2,7 @@
 
 ## Kemampuan Dasar
 '''
-1. Teknologi Informasi (TI) adalah sebuah aktivitas penggunaan komputer untuk membuat, memproses, menyimpan, mengambil, dan bertukar segala jenis elektronik data dan informasi. Sedangkan sistem teknologi informasi (sistem IT) secara spesifik merupakan sistem komputer yang saling berkomunikasi meliputi hardware, software, dan peripheral.
+> 1. Teknologi Informasi (TI) adalah sebuah aktivitas penggunaan komputer untuk membuat, memproses, menyimpan, mengambil, dan bertukar segala jenis elektronik data dan informasi. Sedangkan sistem teknologi informasi (sistem IT) secara spesifik merupakan sistem komputer yang saling berkomunikasi meliputi hardware, software, dan peripheral.
 
 2. Ilmu Komputer = Ilmu komputer mempelajari tentang teori, experimen, dan teknik yang nantinya akan membentuk dasar dalam desain dan penggunaan komputer. Ahli ilmu komputer memiliki keahlian dalam teori komputasi serta desain sistem komputasi.
    Informatika = Informatika memiliki arti yang cukup luas. Salah satu praktek dalam informatika meliputi pengolahan informasi dan pengaplikasikan ilmu informasi. Informatika menjembatani interaksi antara manusia dan informasi.
